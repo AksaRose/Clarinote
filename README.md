@@ -1,20 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Its the night before the exam, you are still stuck on that youtube playlist lecture classes. You already put the video at 2x speed, still there is no hope that you can complete the playlist and there is no other resources available. For a moment you though: "Gosh, I wish I could get a keynote/shortnote of this youtube lecture, so that I could just go through it quickly". Well, we made your wish come true!!! 
+Introducing Clarinote
+The web application "Clarinote", takes in the youtube video link and gives the shortnote of the youtube video.
+Well Now, you dont have to wait for the whole damn video to end, to make the short note of the youtube video lecture.
 
 
 
